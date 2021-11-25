@@ -11,4 +11,6 @@ ESPECIALISTA
 #### Ricardo Vicentini
 Sr Backend Developer, Easynvest
 
+https://web.dio.me/lab/criando-paginas-poderosas-no-net-com-razor-pages/learning/89874876-b4d4-4b80-ac6a-a0ab1969a2d1
+
 
